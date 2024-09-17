@@ -1,3 +1,4 @@
+Задание №1
 integer_var = 977
 float_var = 454.39
 string_var = "Яторо"
@@ -15,3 +16,13 @@ print(tuple_var)
 print(dict_var)
 print(set_var)
 print(bool_var)
+
+#Задание №2
+name = "Саша"
+age = 17
+average_grade = 5.0
+favorite_movies = ["Сумерки", "Сверхъестественное", "Люцифер"]
+personal_info = ("Гусаченко", "Школа№1381", "average_grade")
+skills = {'luck': 8, 'punctuality': 10}
+visited_countries = {"Африка", "Южная Германия", "Самара", "Северная Америка"}
+has_driver_license = True
