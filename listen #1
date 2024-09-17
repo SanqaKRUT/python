@@ -1,4 +1,4 @@
-Задание №1
+#Задание №1
 integer_var = 977
 float_var = 454.39
 string_var = "Яторо"
@@ -26,3 +26,10 @@ personal_info = ("Гусаченко", "Школа№1381", "average_grade")
 skills = {'luck': 8, 'punctuality': 10}
 visited_countries = {"Африка", "Южная Германия", "Самара", "Северная Америка"}
 has_driver_license = True
+
+#Задание №3
+CPU = "Intel i9"
+ram = 32
+inter_speed = 100
+home_pc = ["Intel i9", "32", "100"]
+print(home_pc)
